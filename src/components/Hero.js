@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Hero = () => {
+export default function Hero() {
     return (
         <section className='hero' id='home'>
             <div className='hero-banner'>
@@ -15,6 +15,4 @@ const Hero = () => {
             </div>
         </section>
     );
-};
-
-export default Hero;
+}
