@@ -27,7 +27,7 @@ const About = () => {
                         elit. Aspernatur quisquam harum nam cumque temporibus
                         explicabo dolorum sapiente odio unde dolor?
                     </p>
-                    <a href='#home' className='btn'>
+                    <a href='#about' className='btn'>
                         read more
                     </a>
                 </article>
