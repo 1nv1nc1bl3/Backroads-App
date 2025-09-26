@@ -7,13 +7,13 @@ import Services from './components/Services';
 
 export default function App() {
     return (
-        <body>
+        <>
             <Navbar />
             <Hero />
             <About />
             <Services />
             <Tours />
             <Footer />
-        </body>
+        </>
     );
 }
